@@ -1,1 +1,3 @@
-# React-Travel-Journal
+#  Travel Journal
+
+A travel journal built with React
