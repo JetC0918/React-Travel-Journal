@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;    
+  font-family:'Inter', Courier, monospace;
+}
+
+body{   
+  background-color: #e5e5e5; 
+}
+
+header{
+  display: flex;  
+  width: 100%;
+  background-color: #F55A5A; 
+  top: 0;
+  position: fixed; 
+  justify-content: center;
+  padding: 20px 0;
+} 
+ 
+
+.heroLogo{
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;  
+}
+
+.cardImg{ 
+  width:  14rem;
+  max-width: 80%;
+  border-radius: 5px;
+}
+
+.card{
+  display: flex;
+  flex-direction: row; 
+  width: 704px; 
+  margin-left: 50%; 
+  padding: 1.8rem;
+}
+
+.cardIcon{
+  color: #F55A5A; 
+}
+
+ 
+.cardInfo{ 
+  padding-left: 19px;
+  
+}
+
+.cardLocation{
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 10px;
+  letter-spacing: 0.17em;
+}
+
+.cardLocation h4{ 
+  color: #2B283A; 
+}
+
+.cardLink{
+  margin-left: 25px;
+  color:   #918E9B;
+  text-decoration: underline;
+}
+
+.cardPlace{
+  color: #2B283A;
+  font-weight: bold;
+  padding-bottom: 20px;
+  font-size: 34px;
+}
+
+.cardDate{
+  font-weight: bold;
+  color: #2B283A;
+}
+
+.cardDetail{ 
+  color: #2B283A;
+  line-height: 150%;
+}
