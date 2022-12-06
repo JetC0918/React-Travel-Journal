@@ -88,3 +88,7 @@ header{
   color: #2B283A;
   line-height: 150%;
 }
+
+.card:not(:last-child):nth-child(n-1) {
+	border-bottom: 2px solid #918E9B;
+}
