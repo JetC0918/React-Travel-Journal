@@ -1,7 +1,9 @@
+import {GiEarthAmerica} from 'react-icons/gi';
+
 export default function Hero() {
     return( 
             <header>  
-                    <img className ='heroLogo' src= "https://cdn-icons-png.flaticon.com/512/44/44386.png"></img>
+                    <div className='heroIcon'><GiEarthAmerica /> </div>
                     <p className = "heroTitle">My Travel Journey</p> 
             </header>  
     )

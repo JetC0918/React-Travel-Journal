@@ -1,7 +1,7 @@
 export default [
     {
         id: 1,
-        country: "JAPAN",
+        country: "Japan",
         location: "Mount Fuji",
         date: "12 Jan, 2021 - 24 Jan, 2021",
         googleMapURL: "https://www.google.com/maps/d/viewer?mid=1W9AtcwnYAqP1yVHr5YjhwmQa0eM",
@@ -11,7 +11,7 @@ export default [
     },
     {
         id: 2,
-        country: "AUSTRALIA",
+        country: "Australia",
         location: "Sydney Opera House",
         date: "27 May, 2021 - 8 Jun, 2021",
         googleMapURL: "https://www.google.com/maps/d/viewer?mid=1NYBTZlF3StQEf65_sVbpMlskCoo",
@@ -21,7 +21,7 @@ export default [
     },
     {
         id: 3,
-        country: "NORWAY",
+        country: "Norway",
         location: "Geirangerfjord",
         date: "01 Oct, 2021 - 18 Nov, 2021",
         googleMapURL: "https://www.google.com/maps/d/viewer?hl=en_US&mid=1zi9bW9Zkl8ExIwx-ZNbeChUSK3",
